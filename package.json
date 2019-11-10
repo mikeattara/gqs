@@ -22,9 +22,6 @@
     "url": "https://github.com/mikeattara/gqs/issues"
   },
   "homepage": "https://github.com/mikeattara/gqs#readme",
-  "devDependencies": {
-    "nodemon": "^1.19.4"
-  },
   "dependencies": {
     "dataloader": "^1.4.0",
     "express": "^4.17.1",
@@ -34,5 +31,8 @@
     "lodash": "^4.17.15",
     "mongodb": "^3.3.3",
     "pg": "^7.12.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
   }
 }
